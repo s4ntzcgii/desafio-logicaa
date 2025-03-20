@@ -8,3 +8,13 @@
 8.	Criei um programa que recebeu um valor em reais e a cotação do dólar, calculei e exibi o valor equivalente em dólares
 9.	Elaborei um programa que recebeu o salário de um funcionário e o percentual de aumento, e mostrei um novo salário
 10.	Calculei a velocidade média de um objeto com base na distância percorrida e no tempo gasto
+11. Mandei um número inteiro ao usuário e digo se ele é par ou ímpar
+12. Pedi dois números ao usuário e digo qual deles é o maior
+13. Falei um número ao usuário e diz se ele é positivo, negativo ou zero
+14. Pedi uma letra ao usuário e falou se ela é uma vogal ou consoante
+15. Falei o valor de uma compra e, se o valor fosse maior que R$ 100, concederia um desconto de 10%
+16. Pedi os três lados de um triângulo e disse se ele é equilátero, isósceles ou escaleno
+17. Disse a idade de uma pessoa e falou se ela é criança, adolescente, adulta ou idosa
+18. Pedi um ano ao usuário e disse se ele é bissexto ou não
+19. Coloquei o salário atual de um funcionário e o percentual de aumento. Calculei o novo salário e mostrei o resultado
+20. Pedi o peso e a altura de uma pessoa. Calculei o IMC e disse se ela está abaixo do peso, com peso normal, com sobrepeso ou obesa
